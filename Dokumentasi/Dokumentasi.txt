@@ -1,1 +1,8 @@
+Variabel / data
+int tambah = variabel ini digunakan untuk menyimpan nilai kecepatan ketika nilai kecepatan bertambah
+int kurang = variabel ini digunakan untuk menyimpan nilai kecepatan ketika nilai kecepatan berkurang
+int kecepatan = 0 => variabel ini digunakan untuk menset nilai awal kecepatan yaitu 0
 
+Function
+  pengatur_kecepatan() => ini adalah function yang digunakan untuk mengatur kecepatan. Kecepatan disini memiliki 3 step, yang pertama bernialai 0 yang berarti berhenti, 100 yang berarti sedang, dan 225 yang berarti kencang. Kecepatan bisa dinaik turunkan sesuai step yang ada
+  tampilan_kecepatan() => ini adalah function yang digunakan untuk menampilkan berapa step kita atau kita berada di step berapa
